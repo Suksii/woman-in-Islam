@@ -13,13 +13,13 @@ const Navbar = () => {
         },
         {
             id: 2,
-            name: 'O islamu',
-            path: '/o-islamu'
+            name: 'Položaj žena u islamu',
+            path: '/polozaj-zena-u-islamu'
         },
         {
             id: 3,
-            name: 'Položaj žena u islamu',
-            path: '/polozaj-zena-u-islamu'
+            name: 'Hidžab',
+            path: '/hidzab'
         },
         {
             id: 4,
