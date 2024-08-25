@@ -1,3 +1,12 @@
+import hidzab1 from '../assets/hidzab/zeneuislamu2.jpg';
+import hidzab2 from '../assets/hidzab/zeneuislamu4.jpg';
+import hidzab3 from '../assets/hidzab/zeneuislamu8.jpg';
+import hidzab4 from '../assets/hidzab/zeneuislamu11.jpg';
+import hidzab5 from "../assets/hidzab/zeneuislamu12.jpg";
+import hidzab6 from "../assets/hidzab/zeneuislamu1.jpg";
+import hidzab7 from "../assets/hidzab/zeneuislamu3.jpg";
+import hidzab8 from "../assets/hidzab/zeneuislamu8.jpg";
+
 export const HidzabData = [
     {
         id: 1,
@@ -15,18 +24,8 @@ export const HidzabData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 3,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
+                image: hidzab5,
+                imageDescription: ''
             }
         ]
     },
@@ -66,13 +65,8 @@ export const HidzabData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
+                image: hidzab6,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -108,13 +102,8 @@ export const HidzabData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: hidzab7,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -138,13 +127,8 @@ export const HidzabData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: hidzab8,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -168,13 +152,8 @@ export const HidzabData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: hidzab1,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     }

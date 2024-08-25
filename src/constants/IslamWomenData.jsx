@@ -1,3 +1,14 @@
+import obrazovanje from '../assets/hidzab/zeneuislamu4.jpg';
+import istorija from '../assets/hidzab/zeneuislamu9.jpg';
+import majka from '../assets/hidzab/zeneuislamu20.jpg';
+import supruga from '../assets/hidzab/zeneuislamu5.jpg';
+import hidzab from '../assets/hidzab/zeneuislamu12.jpg';
+import prava from '../assets/hidzab/zeneuislamu13.jpg';
+import zena from '../assets/hidzab/zeneuislamu14.jpg';
+import kultura from '../assets/hidzab/zeneuislamu7.jpg';
+import zajednica from '../assets/hidzab/zeneuislamu11.jpg';
+import tradicija from '../assets/hidzab/zeneuislamu6.jpg';
+
 export const IslamWomenData = [
     {
         id: 1,
@@ -15,13 +26,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
+                image: hidzab,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -41,13 +47,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
+                image: istorija,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -71,13 +72,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: majka,
+                imageDescription: ''
             }
         ]
     },
@@ -97,13 +93,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: supruga,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -127,13 +118,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: obrazovanje,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -157,13 +143,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: prava,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -188,13 +169,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: zena,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -218,13 +194,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: kultura,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -248,13 +219,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: zajednica,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     },
@@ -278,13 +244,8 @@ export const IslamWomenData = [
         images: [
             {
                 id: 1,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 1'
-            },
-            {
-                id: 2,
-                image: 'https://images.pexels.com/photos/19967332/pexels-photo-19967332/free-photo-of-azul.jpeg',
-                imageDescription: 'Slika 2'
+                image: tradicija,
+                imageDescription: 'Izvor: Sabina Nurković'
             }
         ]
     }
