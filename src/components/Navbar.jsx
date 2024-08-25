@@ -23,8 +23,8 @@ const Navbar = () => {
         },
         {
             id: 4,
-            name: 'Porodica i brak',
-            path: '/porodica-i-brak'
+            name: 'Rožajska Šamija',
+            path: '/rozajska-samija'
         }
     ]
 
